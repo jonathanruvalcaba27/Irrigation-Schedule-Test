@@ -1,5 +1,6 @@
-streamlit 
+streamlit
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
+
 
